@@ -1,9 +1,9 @@
-const cacheName = "Innate-A Man-1.0";
+const cacheName = "Innate-Opposites-0.1.0";
 const contentToCache = [
-    "Build/max-and-the-cat.loader.js",
-    "Build/max-and-the-cat.framework.js",
-    "Build/max-and-the-cat.data",
-    "Build/max-and-the-cat.wasm",
+    "Build/opposites.loader.js",
+    "Build/opposites.framework.js",
+    "Build/opposites.data",
+    "Build/opposites.wasm",
     "TemplateData/style.css"
 
 ];
